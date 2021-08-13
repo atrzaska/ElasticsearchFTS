@@ -1,0 +1,8 @@
+/node_modules
+dataset.ndjson
+.DS_Store
+cities.csv
+cities.json
+countries.csv
+countries.json
+/unused
